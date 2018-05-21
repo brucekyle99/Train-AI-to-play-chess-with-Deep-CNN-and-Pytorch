@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/chessBoard_4_4.png</file>
+    <file>img/chessBoard_6_6.png</file>
+    <file>img/blue_block.png</file>
+    <file>img/blue_h.png</file>
+    <file>img/blue_h_now.png</file>
+    <file>img/blue_s.png</file>
+    <file>img/blue_s_now.png</file>
+    <file>img/red_block.png</file>
+    <file>img/red_h.png</file>
+    <file>img/red_h_now.png</file>
+    <file>img/red_s.png</file>
+    <file>img/red_s_now.png</file>
+  </qresource>
+</RCC>
